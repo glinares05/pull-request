@@ -9,5 +9,6 @@ body{
     font-family:sans-serif;
     color:#555;
     color:#fff;
+    transform: translateX(50%);
  
 }
